@@ -1,5 +1,5 @@
 import port_scanner
-import brute_forced
+import brute_forcer
 import banner_grabber
 
 def menu():
@@ -31,3 +31,4 @@ while True:
 
     else:
         print("Invalid choice!")
+
